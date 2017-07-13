@@ -4,6 +4,7 @@ AppDaemon:
   threads: 10
 HASS:
   ha_url: http://deepthought.int.teagantotally.rocks:8123/
+  ha_key:
 # Apps
 hello_world:
   module: hello
