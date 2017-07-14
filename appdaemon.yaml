@@ -2,7 +2,6 @@ AppDaemon:
   logfile: STDOUT
   errorfile: STDERR
   threads: 10
-  log_level: DEBUG
 HASS:
   ha_url: http://deepthought.int.teagantotally.rocks:8123
   ha_key:
